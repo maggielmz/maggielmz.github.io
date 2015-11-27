@@ -132,3 +132,6 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+
+#自定义的一些参数
+img_url: http://maggielimz.github.io/assets/images
